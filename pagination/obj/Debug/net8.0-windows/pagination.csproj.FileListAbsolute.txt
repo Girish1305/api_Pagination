@@ -1,0 +1,16 @@
+E:\Connex\Sample_Projects\pagination\bin\Debug\net8.0-windows\pagination.exe
+E:\Connex\Sample_Projects\pagination\bin\Debug\net8.0-windows\pagination.deps.json
+E:\Connex\Sample_Projects\pagination\bin\Debug\net8.0-windows\pagination.runtimeconfig.json
+E:\Connex\Sample_Projects\pagination\bin\Debug\net8.0-windows\pagination.dll
+E:\Connex\Sample_Projects\pagination\bin\Debug\net8.0-windows\pagination.pdb
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.GeneratedMSBuildEditorConfig.editorconfig
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.AssemblyInfoInputs.cache
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.AssemblyInfo.cs
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.csproj.CoreCompileInputs.cache
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.dll
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\refint\pagination.dll
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.pdb
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.genruntimeconfig.cache
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\ref\pagination.dll
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.csproj.GenerateResource.cache
+E:\Connex\Sample_Projects\pagination\obj\Debug\net8.0-windows\pagination.Form1.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "8.0.0"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "8.0.0"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\giris\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\giris\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
